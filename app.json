@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "bycicle-rental-app",
-    "slug": "bycicle-rental-app",
+    "name": "medicine-reminder-app",
+    "slug": "medicine-reminder-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
